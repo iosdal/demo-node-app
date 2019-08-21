@@ -4,3 +4,4 @@ terraform/.terraform
 terraform/terraform.tfstate
 terraform/secret
 terraform/azure.auto.tfvars
+terraform/terraform.tfstate.backup
